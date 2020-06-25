@@ -1,3 +1,22 @@
+# [1.0.0-beta.1](https://github.com/htmlhint/HTMLHint/compare/v0.15.0-beta.1...v1.0.0-beta.1) (2020-06-25)
+
+
+### Continuous Integration
+
+* trigger major bump ([63f0a7a](https://github.com/htmlhint/HTMLHint/commit/63f0a7adb12401c6b64eb32f7dfaf9ed35aa8250))
+
+
+### BREAKING CHANGES
+
+* Rules have a new structure
+
+# [0.15.0-beta.1](https://github.com/htmlhint/HTMLHint/compare/v0.14.0...v0.15.0-beta.1) (2020-06-25)
+
+
+### Features
+
+* new configuration structure ([#445](https://github.com/htmlhint/HTMLHint/issues/445)) ([0c55a30](https://github.com/htmlhint/HTMLHint/commit/0c55a301c8aa22481cf2ef5245bb0d3184b338ab))
+
 # [0.14.0](https://github.com/htmlhint/HTMLHint/compare/v0.13.1...v0.14.0) (2020-05-31)
 
 
